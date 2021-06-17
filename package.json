@@ -1,0 +1,19 @@
+{
+	"name": "telegram-bot_kurs-valyuta",
+	"version": "1.0.0",
+	"description": "Telegram bot using Node.js",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"author": "Abdunazarov Ansoriddin",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.1.1",
+		"node-telegram-bot-api": "^0.52.0",
+		"request": "^2.88.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	}
+}
