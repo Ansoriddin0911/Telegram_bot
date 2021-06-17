@@ -2,7 +2,7 @@
 	"name": "telegram-bot_kurs-valyuta",
 	"version": "1.0.0",
 	"description": "Telegram bot using Node.js",
-	"main": "index.js",
+	"main": "bot.js",
 	"scripts": {
 		"start": "nodemon index.js"
 	},
