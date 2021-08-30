@@ -3,7 +3,7 @@ const request = require("request");
 const chalk = require("chalk");
 const inline_keyboards = require("./inline_keyboards");
 
-const TOKEN = "1798465756:AAFkL9peZnHDJJZuMqWnaB-dIHAZBFbUAE4";
+const TOKEN = "xxxxxxxxxx:XXXXXXXXXXXXXXXXXXXXXX";
 
 console.log(chalk.black.bgYellow("\nBot has been started..."));
 
